@@ -33,5 +33,12 @@
     "phone": "(555) 654-3210",
     "hours": "Thu-Sun 9am-3pm",
     "zipCode": "33333"
+  },
+  {
+    "name": "Spartan Food Pantry",
+    "address": "211 S 9th St, San Jose, CA 95112",
+    "phone": "(408) 555-0123",
+    "hours": "Mon-Fri 10am-4pm",
+    "zipCode": "95112"
   }
 ]
